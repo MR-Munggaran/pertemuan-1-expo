@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "38bdac27-2dfa-4438-95bf-4bb5589f93c9"
+      }
+    },
+    "owner": "rafimunggaran"
   }
 }
